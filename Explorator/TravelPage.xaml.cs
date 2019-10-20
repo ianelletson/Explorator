@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace Explorator
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for TravelPage.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class TravelPage : Page
     {
-        public MainWindow()
+        public TravelPage()
         {
             InitializeComponent();
         }
